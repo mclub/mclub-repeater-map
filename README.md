@@ -1,4 +1,4 @@
-mclub-repeater-map
+Open Repeater Map App
 ==================
 
-Open repeater map 
+A simple iOS app that display HAM repeaters in the map view.
